@@ -2,7 +2,7 @@
     "env": {
         "node": true
     },
-   // "parser": "babel-eslint", // workaround for default parser working incorrectly
+    "parser": "babel-eslint", // workaround for default parser working incorrectly
     "extends": "eslint:recommended", // recommended rules for eslint
     "rules": {
       "quotes": ["warn", "double"] // example of a rule 
